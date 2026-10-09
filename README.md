@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there,%20I'm%20Parshuram%20👋&fontSize=42&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Java%20%7C%20Spring%20Boot%20%7C%20MySQL%20%7C%20Web%20Developer&descSize=18&descAlign=50&descAlignY=65" width="100%"/>
+  <!-- Header Banner (Red & Light Red Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:ff6b6b&height=200&section=header&text=Hi%20there,%20I'm%20Parshuram%20Rathod%20👋&fontSize=40&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Java%20%7C%20Spring%20Boot%20%7C%20MySQL%20%7C%20Web%20Developer&descSize=18&descAlign=50&descAlignY=65" width="100%"/>
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Dynamic Typing Subtitle (Red theme) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Java+Developer;Spring+Boot+%26+REST+API+Specialist;Building+Awesome+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Full-Stack+Java+Developer;Spring+Boot+%26+REST+API+Specialist;Building+Awesome+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 
 </div>
@@ -14,12 +14,12 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full-Stack Software Developer** specializing in building robust backends with **Java & Spring Boot** and dynamic, modern frontends. I love crafting clean architecture, automated workflows, and high-performance applications.
+I am **Parshuram Rathod**, a passionate **Full-Stack Software Developer** specializing in building robust backends with **Java & Spring Boot** and dynamic, modern frontends. I love crafting clean architecture, automated workflows, and high-performance applications.
 
 - 🔭 I’m currently working on **Full-Stack Web Applications & Microservices**
-- ⚡ Featured Project: **[Resume Builder App](https://github.com/Parshuram9353/resume-builder)** (Spring Boot, JWT, MySQL, iText PDF Export)
+- ⚡ Featured Projects: **[Resume Builder](https://github.com/Parshuram9353/resume-builder)**, **[Blood Bank System](https://github.com/Parshuram9353/blood-bank-system)**, **[Interview Prep System](https://github.com/Parshuram9353/interview-preparation-system)**
 - 🎯 Goals: Continuously building scalable software and contributing to open-source projects
-- 📬 How to reach me: **parshuram9353@gmail.com**
+- 📬 How to reach me: **[parshuramrathod8861743828@gmail.com](mailto:parshuramrathod8861743828@gmail.com)**
 
 ---
 
@@ -27,9 +27,9 @@ I am a passionate **Full-Stack Software Developer** specializing in building rob
 
 <div align="center">
   
-  [![Resume Builder Repo](https://img.shields.io/badge/🚀_Live_Project-Resume_Builder-0072ff?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Parshuram9353/resume-builder)
+  [![Resume Builder Repo](https://img.shields.io/badge/🚀_Live_Project-Resume_Builder-dc2626?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/Parshuram9353/resume-builder)
   [![GitHub Profile](https://img.shields.io/badge/📂_GitHub-Parshuram9353-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parshuram9353)
-  [![Email](https://img.shields.io/badge/✉️_Email_Me-parshuram9353@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshuram9353@gmail.com)
+  [![Email](https://img.shields.io/badge/✉️_Email_Me-parshuramrathod8861743828@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parshuramrathod8861743828@gmail.com)
 
 </div>
 
@@ -70,11 +70,6 @@ Every 12 hours, an automated **GitHub Action** generates this live interactive S
       </td>
     </tr>
   </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parshuram9353&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="80%"/>
-
 </div>
 
 ---
@@ -110,12 +105,12 @@ Every 12 hours, an automated **GitHub Action** generates this live interactive S
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
 | 📄 **Resume Builder** | Full-stack web application for building, previewing, and downloading PDF resumes. | Spring Boot, JWT, MySQL, iText, JS | [View Repo](https://github.com/Parshuram9353/resume-builder) |
-| 🩸 **Blood Bank System** | Complete donor and blood availability tracking system. | Java, Spring Boot, MySQL | [View Repo](https://github.com/Parshuram9353/blood-bank-system) |
-| 💼 **Interview Prep System** | Interactive platform for mock tech interviews and candidate evaluation. | Spring Boot, REST API, MySQL | [View Repo](https://github.com/Parshuram9353/interview-preparation-system) |
+| 🩸 **Blood Bank System** | Complete donor registration, blood inventory tracking, and request system with Docker. | Java, Spring Boot, MySQL, Docker | [View Repo](https://github.com/Parshuram9353/blood-bank-system) |
+| 💼 **Interview Prep System** | Interactive platform for mock tech interviews, quizzes, and candidate evaluation. | Spring Boot, REST API, MySQL | [View Repo](https://github.com/Parshuram9353/interview-preparation-system) |
 | 🏋️ **AuraFit App** | Fitness tracking and workout routine management app. | Java, Spring Boot, Android / Web | [View Repo](https://github.com/Parshuram9353/AuraFit) |
 
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/Parshuram9353">Parshuram</a></sub>
+  <sub>Designed with ❤️ by <a href="https://github.com/Parshuram9353">Parshuram Rathod</a></sub>
 </div>
